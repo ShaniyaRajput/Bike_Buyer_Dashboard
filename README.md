@@ -1,1 +1,1 @@
-# Bike_Buyer_Dashboard
+Utilized Excel for data analysis to uncover bike store sales trends. Dashboard visually depicted customer distribution, pinpointing the target audience. This approach tailored advertising, leading to a significant 9% sales increase
